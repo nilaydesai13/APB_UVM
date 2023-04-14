@@ -1,11 +1,6 @@
 # APB_UVM
 
---> This is a project where I have tried to implement APB protocol.
---> The purpose of this project was to understand UVM and how to build a UVM testbench from the scratch.
---> The design file consist a slave which will be communicating with the master (implemented TB) via APB protocol.
---> In the TB, I have implemented the following:-
-    - testbench
-    - apb_pkg
+--> This is a project where I have tried to implement APB protocol.                                                                                                        --> The purpose of this project was to understand UVM and how to build a UVM testbench from the scratch.                                                                   --> The design file consist a slave which will be communicating with the master (implemented TB) via APB protocol.                                                          --> In the TB, I have implemented the following:-                                                                                                                             - testbench                                                                                                                                                               - apb_pkg
     - apb_if
     - apb_master_trans
     - apb_seq
